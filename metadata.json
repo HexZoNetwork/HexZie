@@ -1,0 +1,8 @@
+{
+  "name": "HexZie",
+  "description": "Hands-free, voice-first on-device controlling AI agent with OpenCode-style tool execution, custom gateways, and permission tiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
